@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86d7a832-d1a3-4388-8360-94ccadf53390" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2imnirYTs7cFbCy2pxFhnWjLB4v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.JacksonTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Anwender/OneDrive/Dokumente/Christoph/Studium/24SoSe/Bachelorarbeit/Java Bachelorarbeit/JAR/jackson-databind-2.15.0.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.23448277&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86d7a832-d1a3-4388-8360-94ccadf53390" name="Changes" comment="" />
+      <created>1720104752194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720104752194</updated>
+      <workItem from="1720104753452" duration="106000" />
+      <workItem from="1720104923934" duration="1043000" />
+      <workItem from="1723019800146" duration="13000" />
+      <workItem from="1724259274591" duration="5000" />
+      <workItem from="1724766459231" duration="8000" />
+      <workItem from="1734786300878" duration="280000" />
+      <workItem from="1734786605493" duration="6994000" />
+      <workItem from="1735375959189" duration="382000" />
+      <workItem from="1735376748538" duration="563000" />
+      <workItem from="1735399645602" duration="4883000" />
+      <workItem from="1736103986356" duration="265000" />
+      <workItem from="1736527002614" duration="2929000" />
+      <workItem from="1736794058890" duration="4636000" />
+      <workItem from="1737241925568" duration="122000" />
+      <workItem from="1737315572603" duration="9000" />
+      <workItem from="1737411178766" duration="527000" />
+      <workItem from="1737411714507" duration="626000" />
+      <workItem from="1737414576172" duration="1498000" />
+      <workItem from="1737456057030" duration="7125000" />
+      <workItem from="1737549764460" duration="24073000" />
+      <workItem from="1737896043126" duration="760000" />
+      <workItem from="1737931273071" duration="17031000" />
+      <workItem from="1738241195223" duration="7210000" />
+      <workItem from="1738574623580" duration="1957000" />
+      <workItem from="1738598026527" duration="14530000" />
+      <workItem from="1738840920509" duration="37000" />
+      <workItem from="1738840967513" duration="5918000" />
+      <workItem from="1738873333326" duration="10860000" />
+      <workItem from="1739472524926" duration="618000" />
+      <workItem from="1739706703700" duration="318000" />
+      <workItem from="1739707159227" duration="545000" />
+      <workItem from="1739875135208" duration="2455000" />
+      <workItem from="1740055812730" duration="2131000" />
+      <workItem from="1740398698366" duration="1938000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
